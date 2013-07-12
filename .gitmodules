@@ -1,3 +1,6 @@
 [submodule "sites/all/themes/zurb-foundation"]
 	path = sites/all/themes/zurb-foundation
 	url = http://git.drupal.org/project/zurb-foundation.git
+[submodule "sites/all/themes/eye-report"]
+	path = sites/all/themes/eye-report
+	url = git@git.fabricatorz.com:eye-report.org-theme
