@@ -1,0 +1,3 @@
+[submodule "sites/all/themes/zurb-foundation"]
+	path = sites/all/themes/zurb-foundation
+	url = http://git.drupal.org/project/zurb-foundation.git
